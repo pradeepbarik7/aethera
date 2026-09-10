@@ -1,0 +1,6 @@
+{
+  "name": "Aethera",
+  "description": "A premium, cinematic, editorial website for Aethera — bridging quiet technology, nature, philosophy, and intentional living.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
